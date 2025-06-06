@@ -18,8 +18,8 @@ v)Package Diagram
 
 vi)Sequence Diagram
 
-## DEVELOPED BY : JOYCE BEULAH R
-## REGISTER NO : 212222230058
+## DEVELOPED BY : Shalini v
+## REGISTER NO : 212222240096
 
 # DIAGRAMS:
 ## Activity Diagram
